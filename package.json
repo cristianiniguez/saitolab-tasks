@@ -1,8 +1,8 @@
 {
-  "name": "electron-sqlite3-example",
-  "productName": "electron-sqlite3-example",
+  "name": "saitolab-tasks",
+  "productName": "saitolab-tasks",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "Save your Tasks easy",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
