@@ -2,3 +2,12 @@
   padding: 0 1em;
   display: flex;
 }
+
+#overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+  position: absolute;
+  top: 100%;
+  bottom: 0;
+  width: 100%;
+  cursor: progress;
+}
